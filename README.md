@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/rasleenpahuja1351">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rasleen+Pahuja+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Enthusiast;I+craft+clean%2C+pixel-perfect+interfaces;Where+design+meets+code+!+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=D2F3F7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rasleen+Pahuja+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Enthusiast;I+craft+clean%2C+pixel-perfect+interfaces;Where+design+meets+code+!+!" alt="Typing SVG" />
 </a>
 
 ```text
